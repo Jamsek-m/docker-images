@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.249.2-lts-jdk11
+FROM jenkins/jenkins:2.263.4-lts-jdk11
 
 USER root
 
